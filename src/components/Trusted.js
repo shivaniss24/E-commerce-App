@@ -9,32 +9,32 @@ const Trusted = () => {
           {/* my 1st img  */}
           <div className="slide">
             <img
-              src="https://www.facebook.com/photo/?fbid=448914700579841&set=a.448914683913176&__tn__=%3C"
-              alt="trusted-brands"
+              src="https://statics.globant.com/production/public/2022-11/Gooogle-logo_1.svg"
+              alt="trusted-brand1"
             />
           </div>
           <div className="slide">
             <img
-              src="https://raw.githubusercontent.com/solodev/infinite-logo-carousel/master/images/image3.png"
-              alt="trusted-brands"
+              src="https://statics.globant.com/production/public/2022-11/EA-logo_1.svg"
+              alt="trusted-brand2"
             />
           </div>
           <div className="slide">
             <img
-              src="https://raw.githubusercontent.com/solodev/infinite-logo-carousel/master/images/image4.png"
-              alt="trusted-brands"
+              src="https://statics.globant.com/production/public/2022-11/Linkedin-logo_0.svg"
+              alt="trusted-brand3"
             />
           </div>
           <div className="slide">
             <img
-              src="https://raw.githubusercontent.com/solodev/infinite-logo-carousel/master/images/image6.png"
-              alt="trusted-brands"
+              src="https://statics.globant.com/production/public/2022-11/BE29AC37-8035-4E89-B239-6EC48F5B2AD9.svg"
+              alt="trusted-brand4"
             />
           </div>
           <div className="slide">
             <img
-              src="https://raw.githubusercontent.com/solodev/infinite-logo-carousel/master/images/image8.png"
-              alt="trusted-brands"
+              src="https://statics.globant.com/production/public/2022-11/Group%208000.svg"
+              alt="trusted-brand5"
             />
           </div>
         </div>
