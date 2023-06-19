@@ -73,7 +73,7 @@ const Wrapper = styled.section`
     }
     .active {
       background-color: ${({ theme }) => theme.colors.black};
-      color: #fff;
+      color: #155e75;
     }
   }
 

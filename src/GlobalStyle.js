@@ -137,7 +137,7 @@ ${"" /* resuable code section  */}
 
 input, textarea{
     max-width: 50rem;
-    color: ${({ theme }) => theme.colors.black};
+    color: #155e75;
     padding: 1.6rem 2.4rem;
     border: 1px solid ${({ theme }) => theme.colors.border};
     text-transform: uppercase;
@@ -146,11 +146,12 @@ input, textarea{
     input[type="submit"]{
     max-width: 16rem;
     margin-top: 2rem;
-    background-color: ${({ theme }) => theme.colors.btn};
+    background-color: #155e75;
     color: ${({ theme }) => theme.colors.white};
     padding: 1.4rem 2.2rem;
     border-style: solid;
     border-width: .1rem;
+    border-radius:0.5rem;
     text-transform: uppercase;
     font-size: 1.8rem;
     cursor: pointer;

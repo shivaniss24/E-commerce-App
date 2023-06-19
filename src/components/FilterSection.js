@@ -184,7 +184,7 @@ const Wrapper = styled.section`
 
       .active {
         border-bottom: 1px solid #000;
-        color: ${({ theme }) => theme.colors.btn};
+        color: #155e75;
       }
     }
   }

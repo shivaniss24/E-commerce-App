@@ -9,7 +9,7 @@ const Trusted = () => {
           {/* my 1st img  */}
           <div className="slide">
             <img
-              src="https://raw.githubusercontent.com/solodev/infinite-logo-carousel/master/images/image2.png"
+              src="https://www.facebook.com/photo/?fbid=448914700579841&set=a.448914683913176&__tn__=%3C"
               alt="trusted-brands"
             />
           </div>
