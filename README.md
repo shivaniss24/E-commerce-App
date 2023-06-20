@@ -6,7 +6,6 @@ Filters by
 Price
 Category
 Ratings
-Wishlist Management
 Cart Management
 Search
 Loading & Alerts
